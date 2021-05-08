@@ -1,0 +1,1 @@
+# Antes de trabalhar no código, dar o git pull
