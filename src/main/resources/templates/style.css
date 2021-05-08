@@ -27,8 +27,8 @@ body {
     margin-right: 20%;
 }
 
-.tabela {
-    margin-top: 5%;
+.tabelas {
+    margin: 5%;
 }
 
 #pregos {
@@ -59,4 +59,23 @@ body {
 
 .bolinhas {
     margin: 2%;
+}
+
+.bt01 {
+    background-color: #BABABA;
+    margin: 3%;
+}
+
+.bt02 {
+    background-color: #D7D7D7;
+    margin: 3%;
+}
+
+#tabelas_mes {
+    margin: 5%;
+}
+
+h3 {
+    font-family: Barlow;
+    font-size: 50%;
 }
