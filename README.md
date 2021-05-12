@@ -28,3 +28,18 @@ As rotas desenvolvidas até agora são 3:
 
 Para criar as páginas, a equipe decidiu usar a dependência de projeto chamada Thymeleaf, template engine que tem ótima integração com Spring Boot e uma sintaxe similar a HTML, agilizando a curva de aprendizado graças à familiaridade que HTML tem para os programadores.
 
+# Equipe
+
+### Desenvolvedores
+
+[![Anabia](https://i.ibb.co/CKLdVz3/Mask-Group-2.png)](https://github.com/anabxms)  | [![Ewerton](https://i.ibb.co/nkvHgxW/photo4945267354145761605-1.png)](https://github.com/romulolyra/)  | [![Rômulo](https://i.ibb.co/WfgT5NV/20210202-091008-1.png)](https://github.com/ewertonluna)
+---|---|---
+**Ana Beatriz** :frog: | **Ewerton Luna** :bee: | **Rômulo José** :turtle: 
+
+
+### Designers
+
+[![Amanda](https://i.ibb.co/QQGvDfB/Whats-App-Image-2021-05-08-at-12-08-2.png)](/)  | [![Bianca](https://i.ibb.co/vz6Gxhc/IMG-0075-1.png)](https://www.linkedin.com/in/bianca-limas/)  | [![Gustavo](https://i.ibb.co/9r5gkPr/Whats-App-Image-2021-04-09-at-12-30-1.png)](/) | [![Isadora](https://i.ibb.co/BCfhCgW/isa.png)](https://www.linkedin.com/in/isadora-ulisses-73b49b1ba/)| [![Matheus](https://i.ibb.co/4NDYcxq/matheus.png)](https://www.linkedin.com/in/matheus-mfc)
+---|---|---|---|---
+**Amanda Queiroz** :sauropod: | **Bianca Lima** :octopus: | **Gustavo Salsa** :shamrock: | **Isadora Ulisses** :koala: | **Matheus Farias** :shrimp: 
+
