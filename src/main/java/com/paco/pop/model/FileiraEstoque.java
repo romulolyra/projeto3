@@ -4,24 +4,30 @@ import java.sql.Date;
 
 public class FileiraEstoque {
 
-		private RolosProduzidos listaRolos; //Eu sei que nao eh uma lista 
+		private Rolo listaRolos;
 		private int qtdFinal;
 		private Date dataEntrega;
-		public RolosProduzidos getListaRolos() {
+
+		public Rolo getListaRolos() {
 			return listaRolos;
 		}
-		public void setListaRolos(RolosProduzidos listaRolos) {
+
+		public void setListaRolos(Rolo listaRolos) {
 			this.listaRolos = listaRolos;
 		}
+
 		public int getQtdFinal() {
 			return qtdFinal;
 		}
+
 		public void setQtdFinal(int qtdFinal) {
 			this.qtdFinal = qtdFinal;
 		}
+
 		public Date getDataEntrega() {
 			return dataEntrega;
 		}
+		
 		public void setDataEntrega(Date dataEntrega) {
 			this.dataEntrega = dataEntrega;
 		}
