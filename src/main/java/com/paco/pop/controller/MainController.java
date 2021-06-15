@@ -20,4 +20,9 @@ public class MainController {
 	public String planejamentoMensal() {
 		return "planejamento_mensal";
 	}
+
+	@RequestMapping("/planejamento-dia")
+	public String planejamentoDiario() {
+		return "planejamento_dia";
+	}
 }
